@@ -1,76 +1,94 @@
-# 📊 Data Analytics Case Studies Portfolio
+# 📊 Data Science Academy – Case Study Portfolio
 
-This repository contains practical business case studies completed during my training at Data Science Academy.
+This repository contains structured case study projects completed during my Data Science Academy training.
 
-Each project focuses on solving real-world business problems using structured data analysis, KPI design, and interactive dashboard development in Tableau.
+Each case study combines:
 
----
+- Data preparation & cleaning
+- Statistical analysis
+- Machine learning modeling
+- Business-focused visualization (Tableau)
+- Insight generation & interpretation
 
-## 🚀 About the Program
-
-During my education at Data Science Academy, I worked on weekly case studies designed to simulate real business environments. 
-
-The training emphasized:
-
-- Business problem understanding
-- Analytical thinking
-- Data-driven decision making
-- Dashboard storytelling
-- Performance measurement strategies
-
-Every case study required both technical implementation and business interpretation.
+Unlike regular homework assignments, these projects simulate real-world business scenarios requiring end-to-end analytical workflows.
 
 ---
 
-## 📂 Included Case Studies
+## 🐍 Python-Based Case Studies
 
-This repository contains:
+The Python section includes advanced analytical implementations such as:
 
-- Week 2 – Business Performance Analysis  
-- Week 3 – KPI & Sales Analytics  
-- Week 4 – Operational Metrics Evaluation  
-- Week 5 – Strategic Dashboard Case Study  
-- Theoretical assessment and BI concepts documentation  
+- Custom data preparation framework
+- Modular model-building architecture
+- Multiple classification algorithms comparison
+- ROC curve optimization & Gini evaluation
+- Feature preprocessing & encoding strategies
+- Outlier detection & treatment
+- Missing value analysis & imputation
 
-Each case study follows a professional analytical workflow:
+### Notable Components
 
-1️⃣ Business Question Definition  
-2️⃣ Data Cleaning & Preparation  
-3️⃣ Exploratory Data Analysis  
-4️⃣ KPI Development  
-5️⃣ Dashboard Design  
-6️⃣ Insight & Recommendation Summary  
+🔹 DataPreparation Class  
+Includes:
+- Column cleaning automation
+- Outlier handling
+- Missing value visualization
+- Scaling methods (Standard, MinMax, Robust)
+- ANOVA & Chi-square analysis
+- Encoding techniques (OneHot, Dummy, Ordinal)
 
----
-
-## 🛠 Tools & Technical Skills Used
-
-- Tableau Desktop
-- Data Relationships & Modeling
-- Calculated Fields
-- Parameters & Dynamic Filters
-- Interactive Dashboard Design
-- KPI Framework Creation
-- Data Storytelling Techniques
-
----
-
-## 📈 Core Competencies Demonstrated
-
-✔ Translating business problems into analytical solutions  
-✔ Designing executive-ready dashboards  
-✔ Identifying performance trends  
-✔ Building meaningful KPIs  
-✔ Communicating insights clearly  
-✔ Supporting data-driven decision making  
+🔹 ModelResults Class  
+Includes:
+- Multi-model classification comparison
+- Accuracy, Precision, Recall, ROC-AUC, Gini metrics
+- ROC curve visualization
+- Optimal threshold detection (Youden’s J)
 
 ---
 
-## 🎯 Professional Objective
+## 📊 Tableau-Based Case Studies
 
-These case studies reflect my ability to work with real datasets, apply structured analytical thinking, and deliver professional-grade business dashboards.
+The Tableau section focuses on:
 
-This portfolio represents my practical journey in Business Intelligence and Data Analytics at Data Science Academy.
+- KPI-based executive dashboards
+- Business performance evaluation
+- Interactive filtering systems
+- Sales & operational metrics analysis
+- Data storytelling principles
+
+These dashboards are designed to simulate real managerial reporting environments.
+
+---
+
+## 🛠 Technologies Used
+
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- XGBoost / LightGBM / CatBoost  
+- Matplotlib / Seaborn  
+- Tableau Desktop  
+
+---
+
+## 📈 Analytical Skills Demonstrated
+
+✔ End-to-end analytical workflow  
+✔ Modular code architecture  
+✔ Business KPI design  
+✔ Machine learning model evaluation  
+✔ Feature engineering  
+✔ Statistical testing (ANOVA, Chi-square)  
+✔ Insight-driven decision support  
+
+---
+
+## 🎯 Objective
+
+The purpose of this repository is to demonstrate applied data science capabilities through structured, business-oriented case studies.
+
+These projects reflect my ability to transform raw datasets into strategic insights using both technical modeling and executive visualization techniques.
 
 ---
 
